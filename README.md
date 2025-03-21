@@ -19,11 +19,11 @@ The system is fully functional through API endpoints that can be tested and inte
     * Send a `GET` request.
 
 ## Technologies
-![Screenshot 2025-03-19 004323](https://github.com/user-attachments/assets/6e7e132c-d19c-4fe2-aa6c-8c64bf22ba2f)
+
 
 * Spring Boot
 * Java
 * MySQL
-![Screenshot 2025-03-19 004323](https://github.com/user-attachments/assets/ee483d98-fdd1-474b-a670-0d47447edb50)
 
 
+![website](https://github.com/user-attachments/assets/33b837b0-8579-4a05-bdc1-c973b2ada347)
