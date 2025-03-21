@@ -23,6 +23,7 @@ The system is fully functional through API endpoints that can be tested and inte
 
 * Spring Boot
 * Java
+* React.js
 * MySQL
 
 
