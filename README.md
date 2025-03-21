@@ -1,4 +1,4 @@
-![Screenshot 2025-03-19 004323](https://github.com/user-attachments/assets/00595a01-75d3-4390-a369-42d5f3a1df7f)# University online library system
+# University online library system
 
 ## Overview
 
