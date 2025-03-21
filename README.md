@@ -1,4 +1,4 @@
-# University online library system
+![Screenshot 2025-03-19 004323](https://github.com/user-attachments/assets/00595a01-75d3-4390-a369-42d5f3a1df7f)# University online library system
 
 ## Overview
 
@@ -17,10 +17,13 @@ The system is fully functional through API endpoints that can be tested and inte
 * **Download:**
     * Use the `/product/{productId}/download` endpoint to download a book file.
     * Send a `GET` request.
-![postman](https://github.com/user-attachments/assets/3a8d87c1-7051-4276-966b-ddb3e08bf742)
 
 ## Technologies
+![Screenshot 2025-03-19 004323](https://github.com/user-attachments/assets/6e7e132c-d19c-4fe2-aa6c-8c64bf22ba2f)
 
 * Spring Boot
 * Java
 * MySQL
+![Screenshot 2025-03-19 004323](https://github.com/user-attachments/assets/ee483d98-fdd1-474b-a670-0d47447edb50)
+
+
